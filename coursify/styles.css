@@ -1,0 +1,96 @@
+/* Previous styles (same as before) */
+
+
+        body {
+    
+    background-image: url("download.jpg");
+   
+    background-size: cover;
+    
+    background-position: center;
+ 
+    background-color: #d50606;
+}
+     .hero-section {
+   
+        background-size: cover;
+        background-position: center;
+        height: 400px; /* Adjust the height as needed */
+        display: flex;
+        align-items: center;
+    }
+    
+    .hero-content {
+        text-align: right;
+        color: #aa0202;
+        padding: 20px;
+    }
+    
+    .key-features-section {
+        display: flex;
+        justify-content: space-around;
+        padding: 40px 0;
+        color: #aa0202;
+    }
+    
+    .feature {
+        text-align: center;
+        max-width: 300px;
+        color: #aa0202;
+    }
+    
+    .feature h3 {
+        font-size: 24px;
+        color: #aa0202;
+    }
+    
+    .how-it-works-section {
+        text-align: center;
+        padding: 40px 0;
+        color: #aa0202;
+
+    }
+    
+    .how-it-works-section h2 {
+        font-size: 30px;
+        margin-bottom: 20px;
+        color: #aa0202;
+    }
+    
+    .how-it-works-section ol {
+        list-style-type: decimal;
+        font-size: 18px;
+        margin: 0;
+        padding: 0;
+        color: #aa0202;
+    }
+    
+    .testimonials-section {
+        text-align: center;
+        padding: 40px 0;
+        color: #aa0202;
+    }
+    
+    .testimonial blockquote {
+        font-size: 20px;
+        margin: 0;
+        color: #aa0202;
+    }
+    
+    .testimonial cite {
+        font-style: italic;
+        color: #aa0202;
+    }
+    
+    .contact-us-section {
+        text-align: center;
+        padding: 40px 0;
+        color: #aa0202;
+    }
+    
+    .contact-us-section h2 {
+        font-size: 30px;
+        margin-bottom: 20px;
+        color: #aa0202;
+    }
+
